@@ -1,0 +1,57 @@
+market_research_task:
+  description: >
+    Research indie-friendly opportunities in the {topic} market. Focus on identifying
+    underserved niches, analyzing successful solo founders, and validating product-market
+    fit. Evaluate competition, pricing models, and realistic market entry points for
+    reaching $100k annual revenue. Prioritize quick-win opportunities.
+  expected_output: >
+    A focused market analysis highlighting viable niches, competitor benchmarks,
+    and validated opportunities for a solo founder to reach $100k revenue.
+
+business_strategy_task:
+  description: >
+    Create a lean business strategy optimized for solo execution. Define minimal
+    viable product, pricing strategy, and key differentiators. Focus on quick
+    launch and validation approach to reach $100k revenue with limited resources.
+  expected_output: >
+    A practical business plan outlining MVP features, pricing model, and lean
+    growth strategy to $100k revenue as a solopreneur.
+
+marketing_plan_task:
+  description: >
+    Design a bootstrapped marketing strategy focused on organic growth. Identify
+    low-cost, high-impact channels for early traction. Include content strategy,
+    community building, and guerrilla marketing tactics suitable for solopreneurs.
+  expected_output: >
+    A cost-effective marketing roadmap with specific organic growth tactics,
+    content calendar, and community engagement plan to reach $100k revenue.
+
+financial_analysis_task:
+  description: >
+    Create realistic financial projections for a bootstrapped {topic} product.
+    Focus on minimal startup costs, sustainable margins, and revenue milestones
+    to $100k. Include pricing optimization and cashflow management strategies.
+  expected_output: >
+    Practical financial models showing path to $100k revenue, including pricing
+    analysis, expense projections, and key profitability metrics for solopreneurs.
+
+competitor_analysis_task:
+  description: >
+    Analyze 3 closest indie competitors in the sub-$2M revenue space. Research their
+    pricing pages, feature sets, positioning, and target markets. Focus on identifying
+    gaps and opportunities that a solopreneur can exploit. Compare pricing models,
+    value propositions, and growth strategies to inform optimal market positioning.
+  expected_output: >
+    Detailed competitive analysis of 3 key indie competitors, including pricing
+    comparison, feature matrix, positioning analysis, and specific opportunities
+    for differentiation to capture $100k revenue share. Include actionable
+    recommendations for competitive advantage as a solo founder.
+
+operations_plan_task:
+  description: >
+    Design automated and streamlined operations for solo execution. Focus on
+    tools, processes and systems that enable efficient scaling to $100k revenue
+    while maintaining work-life balance. Prioritize automation and outsourcing.
+  expected_output: >
+    A lean operations blueprint with specific tools, automated workflows, and
+    scaling tactics optimized for solo founders targeting $100k revenue.
